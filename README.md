@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Silvio!
 - 👀 I’m interested in Software Development and Data Analysis
-- 🌱 I’m currently learning Python, R and Time Series
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 🌱 I’m currently learning Java, Python and Time Series
+- 💞️ I’m looking to collaborate on Data Analysis and Development Projects
 - 📫 How to reach me: silvio.eduardo@aluno.uece.br
 
 <!---
