@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silvio!
-- 👀 I’m interested in Software Development and Networking
-- 🌱 I’m currently learning Python, C++ and Networking
+- 👀 I’m interested in Software Development and Computer Networks
+- 🌱 I’m currently learning Wireless and Satelite Networking
 - 💞️ I’m looking to collaborate on Data Analysis and Development Projects
 - 📫 How to reach me: silvioeduardosbr@gmail.com
 
